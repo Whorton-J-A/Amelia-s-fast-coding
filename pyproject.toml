@@ -1,0 +1,10 @@
+[project]
+name = "master-imports"
+version = "0.1"
+
+[tool.setuptools]
+py-modules = ["master_imports"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

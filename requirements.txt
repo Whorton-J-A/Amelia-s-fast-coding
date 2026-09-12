@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+pingouin
+statsmodels
+scikit-learn
+xgboost
+shap
+torch
+torchmetrics
+psycopg2-binary
+SQLAlchemy
+pylsl
+ipython
