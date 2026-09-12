@@ -173,4 +173,4 @@ IMPORT_SECTIONS = {
     ],
 }
 
-__all__ = [name for names in IMPORT_SECTIONS.values() for name in names]
+__all__ = [name for names in IMPORT_GROUPS.values() for name in names]
